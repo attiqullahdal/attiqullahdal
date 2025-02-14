@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋  
+I’m Attiqullah Dal, an 11th-grade computer science student at Mir Ghulam Ali Khan Talpur Government Boys Degree College.  
+I'm passionate about **C#**, **Python**, and **web development**.  
 
-<!--
-**attiqullahdal/attiqullahdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills & Technologies  
+- 🌐 Web Development (HTML, CSS, JavaScript)  
+- 🐍 Python (Django, Flask)  
+- 💻 C# (.NET, Unity)  
+- 🛠 Git & GitHub  
 
-Here are some ideas to get you started:
+## 📫 Connect with Me  
+- GitHub: [Y[our GitHub Profile Link](https://github.com/attiqullahdal]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s build something amazing! 🚀  
