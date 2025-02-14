@@ -9,6 +9,7 @@ I'm passionate about **C#**, **Python**, and **web development**.
 - 🛠 Git & GitHub  
 
 ## 📫 Connect with Me  
-- GitHub: [Y[our GitHub Profile Link](https://github.com/attiqullahdal]  
+
+- GitHub: [Attiqullah Dal](https://github.com/attiqullahdal)
 
 Let’s build something amazing! 🚀  
